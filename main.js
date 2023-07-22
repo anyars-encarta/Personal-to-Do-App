@@ -13,10 +13,8 @@ form.addEventListener('submit', (e) => {
 
 let formValidation = () => {
     if(textInput.value === '') {
-        console.log('Failure');
         msg.innerHTML = 'Task cannot be blank';
     } else {
-        console.log('Success')
         msg.innerHTML = '';
         acceptData();
         add.setAttribute('data-bs-dismiss', 'modal')
@@ -38,8 +36,7 @@ let acceptData = () => {
     });
 
     localStorage.setItem('data', JSON.stringify(data));
-    console.log(data)
-
+    
     createTasks();
 }
 

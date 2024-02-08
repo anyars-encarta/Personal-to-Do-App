@@ -40,6 +40,8 @@
 # 📖 To Do List <a name="about-project"></a>
 
 > This is a To Do List project to showcase the activities I am to perform.
+>
+> This is a To Do List project to showcase the activities I am to perform.
 
 ## 🛠 Built With <a name="built-with"></a>
 1. HTML

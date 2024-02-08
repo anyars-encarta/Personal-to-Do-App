@@ -41,7 +41,7 @@
 
 > This is a To Do List project to showcase the activities I am to perform.
 >
-> This is a To Do List project to showcase
+> This is a To Do List project to
 
 ## 🛠 Built With <a name="built-with"></a>
 1. HTML
